@@ -1,6 +1,4 @@
 this is our frontend
 frontend line is updated
 another line
-a
-b
-c
+this is us
